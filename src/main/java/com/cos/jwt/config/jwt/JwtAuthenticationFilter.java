@@ -1,6 +1,5 @@
 package com.cos.jwt.config.jwt;
 
-import java.io.BufferedReader;
 import java.io.IOException;
 
 import javax.servlet.FilterChain;
